@@ -75,7 +75,7 @@ void loop() {
           lcd.print("Scissors");
           break;
       }
-      delay(1000);  // Show Arduino choice for 1 second
+      delay(3000);  // Show Arduino choice for 3 seconds
 
       // Game logic (modify based on your interaction setup)
       // ...
